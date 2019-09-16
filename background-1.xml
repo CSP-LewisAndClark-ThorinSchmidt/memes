@@ -10,236 +10,236 @@
 <!-- This animation will start at midnight. -->
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/alien.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/alien.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/alien.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/ant.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/alien.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/ant.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/ant.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/ant.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/ant.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/bald.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/ant.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/bald.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/bald.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/bald.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/bald.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/bug-fix.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/bald.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/boss.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/bug-fix.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/boss.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/bug-fix.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/buzz-memes.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/boss.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/brett.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/buzz-memes.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/brett.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/buzz-memes.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/computer-stuff.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/brett.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/cheese.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/computer-stuff.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/cheese.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/computer-stuff.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/CSD.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/cheese.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/chucky.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/CSD.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/chucky.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/CSD.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/duck-lips.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/chucky.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/chum.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/duck-lips.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/chum.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/duck-lips.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/easy.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/chum.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/cloths.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/easy.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/cloths.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/easy.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/eggs.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/cloths.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/cory.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/eggs.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/cory.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/eggs.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/girlfriend.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/cory.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/creeper.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/girlfriend.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/creeper.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/girlfriend.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/girlscout.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/creeper.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/dab.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/girlscout.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/dab.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/girlscout.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/gygax.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/dab.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/default.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/gygax.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/default.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/gygax.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/hamtaro.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/default.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/defeat.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/hamtaro.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/defeat.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/hamtaro.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/if-dilemma.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/defeat.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/if-dilemma.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/if-dilemma.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/if-dilemma.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/if-dilemma.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/no-internet.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/if-dilemma.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/no-internet.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/no-internet.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/no-internet.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/no-internet.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/not-what-your-phone-says.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/no-internet.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/not-what-your-phone-says.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/not-what-your-phone-says.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/not-what-your-phone-says.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/not-what-your-phone-says.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/prepare.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/not-what-your-phone-says.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/prepare.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/prepare.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/prepare.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/prepare.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/research.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/prepare.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/research.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/research.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/research.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/research.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/scroll.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/research.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/scroll.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/scroll.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/scroll.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/scroll.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/updates.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/scroll.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/updates.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/updates.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/updates.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/updates.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/updates2.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/updates.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/updates2.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/updates2.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/updates2.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/updates2.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/users.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/updates2.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/users.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/users.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/users.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/users.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/use-windows.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/users.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/use-windows.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/use-windows.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/use-windows.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/use-windows.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/windows8.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/use-windows.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/windows8.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/windows8.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/windows8.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/windows8.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/y-u-no.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/windows8.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/y-u-no.jpg</to>
   </transition>
   <static>
     <duration>20.0</duration>
-    <file>/home/tschmidt/Pictures/memes/y-u-no.jpg</file>
+    <file>/home/travisaj/Downloads/Memes/y-u-no.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/tschmidt/Pictures/memes/y-u-no.jpg</from>
-    <to>/home/tschmidt/Pictures/memes/all-caps.jpg</to>
+    <from>/home/travisaj/Downloads/Memes/y-u-no.jpg</from>
+    <to>/home/travisaj/Downloads/Memes/all-caps.jpg</to>
   </transition>
 </background>
