@@ -242,4 +242,14 @@
     <from>/home/tschmidt/Pictures/memes/y-u-no.jpg</from>
     <to>/home/tschmidt/Pictures/memes/all-caps.jpg</to>
   </transition>
+<static>
+<duration>600.0</duration>
+<file>/home/nglamann/GIT/memes/whattheythink.jpeg</file>
+</static>
+<transition>
+<duration>5.0</duration>
+<from>/home/nglamann/GIT/memes/whattheythink.jpeg</from>
+<to>/home/tschmidt/Pictures/memes/all-caps.jpg</to>
+</transition>
+
 </background>
