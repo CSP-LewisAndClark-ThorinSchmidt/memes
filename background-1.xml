@@ -36,6 +36,20 @@
     <to>/home/tschmidt/Pictures/memes/bug-fix.jpg</to>
   </transition>
   <static>
+
+
+    <duration>600.0</duration>
+    <file>/home/tschmidt/Pictures/memes/any-key.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/home/tschmidt/Pictures/memes/any-key.jpg</from>
+    <to>/home/tschmidt/Pictures/memes/th.jepg</to>
+  </transition>
+  <static>
+
+
+
     <duration>600.0</duration>
     <file>/home/tschmidt/Pictures/memes/bug-fix.jpg</file>
   </static>
