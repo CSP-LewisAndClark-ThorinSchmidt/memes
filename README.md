@@ -1,2 +1,0 @@
-# memes
-classroom memes
